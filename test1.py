@@ -4,7 +4,6 @@
 
 import time
 
-
 print "欢迎来到Miss Python的秘密日记"
 print '''
 选择：
